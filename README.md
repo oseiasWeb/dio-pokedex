@@ -1,6 +1,8 @@
-<h1 align="center">Projeto Pokedex</h1>
+<h1 align="center"><p align="center">
+    <img src="./assets/image/Pikachu.webp" width="80vw" height="80vh">
+</p>Projeto Pokedex</p></h1>
 
-Este é um pequeno portfólio de apresentação das minhas habilidades como dev frontend. Ele tem uma apresentação pessoal, incluindo resumo breve sobre mim, redes sociais e lista de projetos. 💻📰✨
+<p>Temos um projeto de cards de Pokemons criado inicialmente pelo programa de treinamento Orange+ pela plataforma Dio.</p> 
 
 <h2 align="center">*** Tecnologias Utilizadas ***</h2>
 <ul>
@@ -10,13 +12,14 @@ Este é um pequeno portfólio de apresentação das minhas habilidades como dev 
 </ul>
 
 <h2 align="center">*** Como Utilizar ***</h2>
-<p>Existem 3 abas onde temos informações e links para contatos: Sobre, minhas redes e projetos. Abaixo temos um pequeno gif com as funcionalidades do sistema:</p>
+<p>Exibe cardes de Pokémon e os seus atributos de acordo com a sua classe. Responsividade
+ aplicada parcialmente. Abaixo uma breve apresentação do sistema:</p>
 
-<img align="center" src="./src/imagens/animacao.gif" alt="Imagem Capa home" title="Tech Brasil"><p>Gif - funcionalidades do sistema</p>
+<img align="center" src="./assets/image/animacao.gif" alt="Imagem Capa home" title="Tech Brasil"><p>Gif - funcionalidades do sistema</p>
 
 <h2 align="center">*** Link da página ***</h2>
 <p>Abaixo temos o link da página para visualização e testes:</p>
-🔗 <a href="https://oseiasweb.github.io/mini-portfolio/" target="_blank" class="linkedin">Mini Portfólio</a><br>
+🔗 <a href="https://oseiasweb.github.io/dio-pokedex/" target="_blank" class="linkedin">Projeto Pokedex</a><br>
 
 <br>
 <h2 align="center">*** Status Projeto ***</h2>
